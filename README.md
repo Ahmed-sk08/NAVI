@@ -11,7 +11,7 @@ to understand their needs.
 ## Steps to follow so as to run the project:
 1. Go to an empty folder in your local machine.
 2. Run the following command to clone the repository:
-git clone https://github.com/naim-2/NAVI.git
+git clone https://github.com/Ahmed-sk08/NAVI.git
 3. Open the folder in Visual Studio Code. Make sure you have python installed with the pip package.
 4. Open the terminal in Visual Studio Code.
 5. Run the following command to install the necessary libraries through the terminal: pip install -r requirements.txt
